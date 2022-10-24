@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Guido Pisarra.
 - 
-- I am 35 years old, and I live in TRes Arroyos, Province of Buenos Aires Argentina
+- I am 35 years old, and I live in Tres Arroyos, Province of Buenos Aires Argentina
 - 🌱 I’m currently learning Development of Computer Applications
 - 👀 I’m interested in learn other programming languages and in the future computer security
 - 📫 You can contact me through pisarraguido@gmail.com or https://www.linkedin.com/in/guido-pisarra
