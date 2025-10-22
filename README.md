@@ -12,3 +12,15 @@
     <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </p>
+
+---
+### 📊 Mi Actividad en GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuidoPisarria&show_icons=true&theme=vue-dark&hide_title=true&hide_border=true" alt="GuidoPisarria GitHub Stats" />
+</p>
+
+---
+### 📫 Contáctame
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pisarraguido-fullstack/)
