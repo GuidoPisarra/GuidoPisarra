@@ -17,7 +17,7 @@
 ### 📊 Mi Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuidoPisarria&show_icons=true&theme=vue-dark&hide_title=true&hide_border=true" alt="GuidoPisarria GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuidoPisarra&show_icons=true&theme=vue-dark&hide_title=true&hide_border=true" alt="GuidoPisarra GitHub Stats" />
 </p>
 
 ---
