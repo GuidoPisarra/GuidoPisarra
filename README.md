@@ -1,6 +1,6 @@
 # Hola, soy Guido 👋
 
-**Desarrollador Full Stack.** Construyo aplicaciones web y móviles de punta a punta: frontends en Angular/Ionic, APIs en NestJS, Go, Symfony o Spring Boot, y la infraestructura de datos y mensajería que las conecta.
+**Desarrollador Full Stack.** Construyo aplicaciones web y móviles de punta a punta: frontends en Angular/Ionic, APIs en NestJS, Symfony o Spring Boot, y ahora también integraciones con IA usando LangChain y MCP.
 
 ## 🛠️ Stack
 
@@ -10,11 +10,12 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS">
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
   <img src="https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white" alt="Symfony">
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
+  <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP">
 </p>
 
 ## 🚀 En qué estoy trabajando
