@@ -20,22 +20,16 @@
   <img src="https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white" alt="MCP">
 </p>
 
-## 🚀 En qué estoy trabajando
+## 💼 Lo que hago
 
-| Proyecto | Descripción |
-| --- | --- |
-| [**vindex**](https://github.com/GuidoPisarra/vindex) · [front](https://github.com/GuidoPisarra/vindex_front) | Copiloto fiscal y normativo con IA. |
-| [**kontia**](https://github.com/GuidoPisarra/kontia) | Sistema de ventas, stock y administración. |
-| [**cybersecurity-notes**](https://github.com/GuidoPisarra/cybersecurity-notes) | Mis notas de ciberseguridad y hacking ético mientras aprendo (HTB Academy y otros labs legales). |
+- **Apps web y móviles** con Angular e Ionic, pensadas para usarse todos los días.
+- **APIs y backends** con NestJS, Symfony o Spring Boot, con MySQL y mensajería con RabbitMQ.
+- **Sistemas de gestión** para negocios: ventas, stock, cobranzas e inspecciones.
+- **IA aplicada** a productos reales con LangChain y MCP.
 
 ## 🌱 Ahora mismo
 
 - Sumando IA a productos reales con **vindex**.
 - Aprendiendo ciberseguridad ofensiva y defensiva.
 
-## 🐍 Mis contribuciones
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuidoPisarra/GuidoPisarra/output/github-snake-dark.svg">
-  <img alt="Viborita comiéndose mi gráfico de contribuciones" src="https://raw.githubusercontent.com/GuidoPisarra/GuidoPisarra/output/github-snake.svg">
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3178C6,100:1C3C3C&height=120&section=footer&text=Gracias%20por%20pasar&fontSize=24&fontColor=ffffff&animation=twinkling" alt="Gracias por pasar" width="100%">
