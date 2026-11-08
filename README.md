@@ -1,5 +1,7 @@
 # Hola, soy Guido 👋
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=3178C6&vCenter=true&width=520&lines=Desarrollador+Full+Stack;Angular+%2B+Ionic+%2B+NestJS;Integrando+IA+con+LangChain+y+MCP" alt="Desarrollador Full Stack · Angular + Ionic + NestJS · Integrando IA con LangChain y MCP">
+
 **Desarrollador Full Stack.** Construyo aplicaciones web y móviles de punta a punta: frontends en Angular/Ionic, APIs en NestJS, Symfony o Spring Boot, y ahora también integraciones con IA usando LangChain y MCP.
 
 ## 🛠️ Stack
