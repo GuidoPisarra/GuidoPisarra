@@ -32,3 +32,10 @@
 
 - Sumando IA a productos reales con **vindex**.
 - Aprendiendo ciberseguridad ofensiva y defensiva.
+
+## 🐍 Mis contribuciones
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuidoPisarra/GuidoPisarra/output/github-snake-dark.svg">
+  <img alt="Viborita comiéndose mi gráfico de contribuciones" src="https://raw.githubusercontent.com/GuidoPisarra/GuidoPisarra/output/github-snake.svg">
+</picture>
